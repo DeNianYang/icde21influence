@@ -1,0 +1,15 @@
+test/item.txt
+test/graph.txt
+test/mc.txt
+test/ms.txt
+test/pref.txt
+test/pext.txt
+test/sim.txt
+test/cost.txt
+test/seeds.txt
+100
+0.0001
+5
+5
+0.35
+2
